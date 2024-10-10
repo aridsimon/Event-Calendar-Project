@@ -1,4 +1,3 @@
-#Event Calendar Project
 Event Calendar with Full Month View and Two-Week Outlook
 
 This project provides two custom calendars:
