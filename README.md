@@ -1,2 +1,2 @@
 # HTML-Showcase
-These projects were out together for SqaureSpace
+These projects were put together for SqaureSpace
